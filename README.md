@@ -1,5 +1,7 @@
 # ReactAddUser
 
+It is an application where you can add fictional users.
+You will also see a warning overlay if you add incorrect values in fields . For ex - Age < 0 or empty values.
 
 # How to use
 
